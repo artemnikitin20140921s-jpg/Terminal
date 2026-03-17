@@ -1,0 +1,10 @@
+# Binaries
+term
+*.o
+
+# Build directory
+build/
+
+# IDE
+.vscode/
+.idea/
